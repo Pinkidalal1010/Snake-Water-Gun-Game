@@ -23,12 +23,6 @@ snake-water-gun/
 │-- snake_water_gun.py   # main game file
 │-- README.md            # project documentation
 
-▶️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/snake-water-gun.git
-
 
 Navigate to the project folder:
 
